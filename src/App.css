@@ -30,3 +30,13 @@
     transform: rotate(360deg);
   }
 }
+
+.details {
+  background: #999;
+  height: 80vh;
+  width: 100%;
+}
+
+.appbar {
+  background: lightcoral;
+}
